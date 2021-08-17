@@ -1,0 +1,16 @@
+[
+{
+  "modid": "catclient",
+  "name": "CatClient",
+  "description": "A minecraft pvp mod by BigJMuffin, mask, KonasFanMoment",
+  "version": "${1.0.4}",
+  "mcversion": "${1.12.2}",
+  "url": "https://discord.gg/Mw5MkWqPUn",
+  "updateUrl": "https://discord.gg/Mw5MkWqPUn",
+  "authorList": ["BigPooMuffin, mask, KonasFanMoment"],
+  "credits": "like, noone",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
